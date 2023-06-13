@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: #E9ECEF;
+}
+
+.jumbotron {
+
+    background-color: #E9ECEF;
+}
+
+
+ ::marker{
+
+        color: rgb(38, 0, 255);
+ }
+
+ .card {
+    overflow: hidden;
+    
+    
+}
+
+img {
+    object-fit: fill;
+    height    : 18rem;
+    
+}
+
